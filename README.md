@@ -1,2 +1,2 @@
 # dox.creator
-A simple program written in C, that makes DOX templates.
+My first simple program written in C, that makes DOX templates, can read .txt's. Enjoy! :)
